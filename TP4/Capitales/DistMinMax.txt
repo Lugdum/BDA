@@ -1,0 +1,179 @@
+Abu Dhabi	Doha:299, Apia:15042
+Abuja	Malabo:607, Apia:19465
+Accra	Lomé:170, Funafuti:19665
+Addis Ababa	Djibouti (city):559, Apia:16640
+Algiers	Tunis:633, Wellington:19127
+Amman	Jerusalem:70, Nukuʻalofa:16696
+Amsterdam	Brussels:172, Wellington:18552
+Andorra la Vella	Madrid:493, Wellington:19429
+Ankara	Nicosia:530, Wellington:16810
+Antananarivo	Port Louis:1054, Mexico City:16506
+Apia	Nukuʻalofa:889, Abuja:19465
+Ashgabat	Baku:780, Santiago:15431
+Asmara	Sana'a:565, Apia:16701
+Asunción	Buenos Aires:1036, Taipei:19912
+Athens	Skopje:487, Wellington:17508
+Baghdad	Kuwait City:557, Nukuʻalofa:15891
+Baku	Tbilisi:451, Wellington:15448
+Bamako	Ouagadougou:702, Port Vila:19311
+Bandar Seri Begawan	Manila:1264, Bogotá:18538
+Bangkok	Vientiane:519, Lima:19673
+Bangui	Yaounde:782, Apia:18458
+Banjul	Dakar:166, Honiara:19416
+Basseterre	Roseau:264, Dili:18679
+Beijing	Pyongyang:808, Buenos Aires:19251
+Beirut	Damascus:83, Nukuʻalofa:16676
+Belgrade	Sarajevo:194, Wellington:17888
+Belmopan	Guatemala City:348, Jakarta:17910
+Berlin	Prague:279, Wellington:18126
+Bern	Vaduz:158, Wellington:18813
+Bishkek	Tashkent:474, Santiago:16818
+Bissau	Banjul:209, Honiara:19443
+Bogotá	Quito:738, Jakarta:19809
+Brasilia	Asunción:1463, Manila:18799
+Bratislava	Vienna:55, Wellington:18089
+Brazzaville	Kinshasa:7, Apia:17845
+Bridgetown	Kingstown:174, Dili:19244
+Brussels	Amsterdam:172, Wellington:18710
+Bucharest	Sofia:294, Wellington:17442
+Budapest	Bratislava:161, Wellington:17964
+Buenos Aires	Montevideo:203, Seoul:19419
+Cairo	Jerusalem:426, Nukuʻalofa:17182
+Canberra	Wellington:2324, Lisbon:18041
+Caracas	Port of Spain:588, Jakarta:19163
+Castries	Kingstown:98, Dili:19065
+Chisinau	Bucharest:357, Wellington:17236
+Conakry	Freetown:125, Honiara:19307
+Copenhagen	Berlin:355, Wellington:17946
+Dakar	Banjul:166, Honiara:19352
+Damascus	Beirut:83, Nukuʻalofa:16619
+Dhaka	Thimphu:418, Lima:18143
+Dili	Bandar Seri Begawan:1903, Paramaribo:19688
+Djibouti (city)	Sana'a:433, Apia:16214
+Dodoma	Nairobi:555, Apia:16241
+Doha	Manama:140, Apia:15316
+Dushanbe	Tashkent:309, Santiago:16341
+Freetown	Conakry:125, Honiara:19246
+Funafuti	Suva:1072, Accra:19665
+Gaborone	Pretoria:258, Majuro:15846
+Gitega	Kigali:166, Apia:16939
+Guatemala City	San Salvador:176, Jakarta:17889
+Hanoi	Vientiane:481, Lima:18957
+Harare	Lusaka:398, Apia:15685
+Havana	Belmopan:934, Jakarta:17878
+Helsinki	Tallinn:82, Wellington:17066
+Honiara	Yaren District:1252, Bissau:19443
+Islamabad	Kabul:368, Santiago:16661
+Jakarta	Singapore:894, Bogotá:19809
+Jerusalem	Amman:70, Nukuʻalofa:16766
+Juba	Kampala:515, Apia:17256
+Kabul	Islamabad:368, Santiago:16324
+Kampala	Kigali:376, Apia:16932
+Kathmandu	Thimphu:431, Santiago:17621
+Khartoum	Asmara:682, Apia:17383
+Kigali	Gitega:166, Apia:17027
+Kingstown	Castries:98, Dili:19102
+Kinshasa	Brazzaville:7, Apia:17838
+Kuala Lumpur	Singapore:315, Quito:19676
+Kuwait City	Manama:433, Nukuʻalofa:15591
+Kyiv	Chisinau:400, Wellington:17088
+Libreville	São Tomé:302, Funafuti:18551
+Lilongwe	Harare:517, Apia:15824
+Lima	Quito:1323, Phnom Penh:19782
+Lisbon	Madrid:500, Wellington:19562
+Ljubljana	Zagreb:117, Wellington:18334
+Lomé	Porto-Novo:157, Funafuti:19655
+London	Brussels:320, Wellington:18801
+Luanda	Kinshasa:551, Tarawa:17613
+Lusaka	Harare:398, Apia:16075
+Luxembourg (city)	Brussels:187, Wellington:18724
+Madrid	Andorra la Vella:493, Wellington:19839
+Majuro	Tarawa:663, Monrovia:18493
+Malabo	Yaounde:303, Apia:18879
+Manama	Doha:140, Apia:15396
+Manila	Taipei:1164, Asunción:18803
+Maputo	Mbabane:149, Majuro:15167
+Maseru	Pretoria:402, Majuro:15493
+Mbabane	Maputo:149, Majuro:15291
+Mexico City	Guatemala City:1058, Port Louis:17559
+Minsk	Vilnius:171, Wellington:17208
+Mogadishu	Nairobi:1015, Apia:15723
+Monaco	Bern:357, Wellington:18932
+Monrovia	Freetown:360, Yaren District:19312
+Montevideo	Buenos Aires:203, Seoul:19591
+Moscow	Minsk:674, Wellington:16536
+Muscat	Abu Dhabi:421, Lima:15138
+N'Djamena	Abuja:892, Apia:19241
+Nairobi	Kampala:503, Apia:16435
+Naypyidaw	Vientiane:711, Lima:18874
+New Delhi	Islamabad:690, Santiago:16908
+Niamey	Ouagadougou:416, Funafuti:19361
+Nicosia	Beirut:243, Nukuʻalofa:16814
+Nouakchott	Dakar:410, Port Vila:19548
+Nukuʻalofa	Suva:743, Niamey:19108
+Nur-Sultan	Bishkek:952, Santiago:16376
+Oslo	Stockholm:417, Wellington:17659
+Ottawa	Washington, D.C.:732, Canberra:16098
+Ouagadougou	Niamey:416, Funafuti:19567
+Panama City	Bogotá:765, Jakarta:19238
+Paramaribo	Port of Spain:876, Dili:19688
+Paris	Brussels:263, Wellington:18972
+Phnom Penh	Bangkok:537, Lima:19782
+Podgorica	Pristina:157, Wellington:17978
+Port Louis	Antananarivo:1054, Mexico City:17559
+Port Moresby	Honiara:1403, Praia:18821
+Port Vila	Suva:1071, Nouakchott:19548
+Port of Spain	Kingstown:278, Dili:19191
+Port-au-Prince	Basseterre:1024, Jakarta:18628
+Porto-Novo	Lomé:157, Funafuti:19564
+Prague	Vienna:252, Wellington:18199
+Praia	Dakar:651, Honiara:19285
+Pretoria	Gaborone:258, Majuro:15588
+Pristina	Skopje:77, Wellington:17825
+Pyongyang	Seoul:193, Montevideo:19511
+Quito	Bogotá:738, Singapore:19715
+Rabat	Lisbon:562, Wellington:19181
+Reykjavik	Oslo:1744, Wellington:17244
+Riga	Vilnius:262, Wellington:17285
+Riyadh	Manama:426, Apia:15807
+Rome	Vatican City:4, Wellington:18529
+Roseau	Castries:149, Dili:18938
+San Marino	Vatican City:226, Wellington:18529
+San Salvador	Guatemala City:176, Jakarta:18062
+Sana'a	Djibouti (city):433, Apia:16135
+Santiago	Buenos Aires:1137, Beijing:19047
+Sarajevo	Podgorica:172, Wellington:18053
+Seoul	Pyongyang:193, Montevideo:19591
+Singapore	Kuala Lumpur:315, Quito:19715
+Skopje	Pristina:77, Wellington:17795
+Sofia	Skopje:174, Wellington:17649
+Sri Jayawardenepura Kotte	Dhaka:2182, Quito:17495
+Stockholm	Tallinn:377, Wellington:17431
+Suva	Nukuʻalofa:743, Ouagadougou:19358
+São Tomé	Libreville:302, Funafuti:18768
+Taipei	Manila:1164, Asunción:19912
+Tallinn	Helsinki:82, Wellington:17117
+Tarawa	Majuro:663, Yamoussoukro:19076
+Tashkent	Dushanbe:309, Santiago:16391
+Tbilisi	Yerevan:172, Wellington:15900
+Tegucigalpa	San Salvador:217, Jakarta:18234
+Thimphu	Dhaka:418, Santiago:18005
+Tokyo	Seoul:1152, Montevideo:18560
+Tripoli	Valletta:354, Nukuʻalofa:18455
+Tunis	Valletta:400, Wellington:18584
+Ulaanbaatar	Beijing:1166, Santiago:18381
+Vaduz	Bern:158, Wellington:18662
+Valletta	Tripoli:354, Wellington:18190
+Vatican City	Rome:4, Wellington:18533
+Vienna	Bratislava:55, Wellington:18140
+Vientiane	Hanoi:481, Lima:19342
+Vilnius	Minsk:171, Wellington:17321
+Warsaw	Vilnius:392, Wellington:17682
+Washington, D.C.	Ottawa:732, Jakarta:16347
+Wellington	Canberra:2324, Madrid:19839
+Windhoek	Gaborone:928, Majuro:16758
+Yamoussoukro	Accra:578, Funafuti:19472
+Yaounde	Malabo:303, Apia:18837
+Yaren District	Tarawa:707, Monrovia:19312
+Yerevan	Tbilisi:172, Wellington:15870
+Zagreb	Ljubljana:117, Wellington:18227
